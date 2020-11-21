@@ -18,6 +18,7 @@
 
 ### Resources
     - Provides the csv file that will be converted to an html file to display the data for the "data" page. 
+    - Contains the jupyter notebook that converts the csv to an html as "data.html"
 
 ### Visualizations
     - Screenshots of the finished website
