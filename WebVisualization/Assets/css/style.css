@@ -20,4 +20,13 @@
 .current{
     background-color: blue;
 }
-    
+
+.images a{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1{
+    text-align: center;
+}
